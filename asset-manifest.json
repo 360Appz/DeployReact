@@ -1,0 +1,27 @@
+{
+  "files": {
+    "app.js": "/DeployReact/static/js/app.38777519.chunk.js",
+    "app.js.map": "/DeployReact/static/js/app.38777519.chunk.js.map",
+    "runtime~app.js": "/DeployReact/static/js/runtime~app.8de71431.js",
+    "runtime~app.js.map": "/DeployReact/static/js/runtime~app.8de71431.js.map",
+    "static/js/2.62fa9a58.chunk.js": "/DeployReact/static/js/2.62fa9a58.chunk.js",
+    "static/js/2.62fa9a58.chunk.js.map": "/DeployReact/static/js/2.62fa9a58.chunk.js.map",
+    "favicon-16.png": "/DeployReact/favicon-16.png",
+    "favicon-32.png": "/DeployReact/favicon-32.png",
+    "favicon.ico": "/DeployReact/favicon.ico",
+    "index.html": "/DeployReact/index.html",
+    "manifest.json": "/DeployReact/manifest.json",
+    "serve.json": "/DeployReact/serve.json",
+    "static/js/2.62fa9a58.chunk.js.LICENSE.txt": "/DeployReact/static/js/2.62fa9a58.chunk.js.LICENSE.txt",
+    "static/media/Model3.jpeg": "/DeployReact/static/media/Model3.e3cfa47a.jpeg",
+    "static/media/ModelS.jpeg": "/DeployReact/static/media/ModelS.0b8c1697.jpeg",
+    "static/media/ModelX.jpeg": "/DeployReact/static/media/ModelX.50199628.jpeg",
+    "static/media/ModelY.jpeg": "/DeployReact/static/media/ModelY.c0a1a241.jpeg",
+    "static/media/logo.png": "/DeployReact/static/media/logo.e53985b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.8de71431.js",
+    "static/js/2.62fa9a58.chunk.js",
+    "static/js/app.38777519.chunk.js"
+  ]
+}
